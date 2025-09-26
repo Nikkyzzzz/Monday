@@ -1,0 +1,8 @@
+altair==5.5.0
+numpy==2.3.3
+pandas==2.3.2
+streamlit==1.48.0
+streamlit_antd_components==0.3.2
+cohere>=5.0.0
+pdfplumber>=0.9.0
+python-dotenv>=1.0.0
